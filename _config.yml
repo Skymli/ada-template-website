@@ -5,36 +5,6 @@ navigation:
   - title: Example
     url: example
 
-Skip to content
-
-    Pricing
-
-Sign in
-Sign up
-mmistakes /
-so-simple-theme
-Public
-
-Code
-Issues 4
-Pull requests 5
-Discussions
-Actions
-Projects
-Security
-
-    Insights
-
-so-simple-theme/example/_config.yml
-@jraman
-jraman Add support for MathJax v3
-Latest commit e701696 Feb 21, 2020
-History
-3 contributors
-@mmistakes
-@cyberang3l
-@jraman
-136 lines (124 sloc) 3.46 KB
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
